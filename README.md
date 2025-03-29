@@ -2,8 +2,12 @@
 
 > Pending README
 
+## Installation 
+```sh
+go get github.com/GrayHat12/ghastly@master
+```
 
-## Example
+## Example Usage
 
 ```go
 package main
